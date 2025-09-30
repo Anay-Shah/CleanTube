@@ -55,7 +55,3 @@ To modify the extension:
 1. Make changes to the source files
 2. Reload the extension in `chrome://extensions/`
 3. Test on YouTube
-
-## License
-
-MIT License
