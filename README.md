@@ -14,7 +14,7 @@ Removes visual clutter from YouTube, providing a clean and focused viewing exper
 1. Clone this repository
 2. Open Chrome and go to `chrome://extensions/`
 3. Enable "Developer mode" in the top right
-4. Click "Load unpacked" and select the `minimalist-youtube` folder
+4. Click "Load unpacked" and select the `CleanTube` folder
 5. The extension will be loaded and ready to use
 
 ## Usage
@@ -40,7 +40,7 @@ Removes visual clutter from YouTube, providing a clean and focused viewing exper
 ## File Structure
 
 ```
-minimalist-youtube/
+CleanTube/
 ├── manifest.json      # Extension configuration
 ├── content.js         # Main content script
 ├── popup.html         # Extension popup UI
