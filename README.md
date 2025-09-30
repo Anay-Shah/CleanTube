@@ -1,6 +1,6 @@
-# Minimalist YouTube Chrome Extension
+# CleanTube - A Minimalist YouTube Chrome Extension
 
-A Chrome extension that removes visual clutter from YouTube, providing a clean and focused viewing experience.
+Removes visual clutter from YouTube, providing a clean and focused viewing experience.
 
 ## Features
 
